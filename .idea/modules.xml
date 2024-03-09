@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Concepts/Concepts.iml" filepath="$PROJECT_DIR$/Concepts/Concepts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA/DSA.iml" filepath="$PROJECT_DIR$/DSA/DSA.iml" />
       <module fileurl="file://$PROJECT_DIR$/code/OOPs/OOPs.iml" filepath="$PROJECT_DIR$/code/OOPs/OOPs.iml" />
-      <module fileurl="file://$PROJECT_DIR$/code/code.iml" filepath="$PROJECT_DIR$/code/code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OopsPractice/OopsPractice.iml" filepath="$PROJECT_DIR$/OopsPractice/OopsPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collections/collections.iml" filepath="$PROJECT_DIR$/collections/collections.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java practice.iml" filepath="$PROJECT_DIR$/.idea/java practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/streams/untitled/untitled.iml" filepath="$PROJECT_DIR$/streams/untitled/untitled.iml" />
     </modules>
   </component>
 </project>
