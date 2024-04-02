@@ -8,10 +8,10 @@ public class Cake {
         this.weight = weight;
     }
 
-    public void bakeCake(){
+    public void bake(){
         System.out.println("Baking the cake with vanilla base");
         System.out.println("The size of the cake is " + size + 
-                            " inches and weight is " + weight + "kg");
+                            " inches and weight is " + weight + " kg");
     }
     
 }
